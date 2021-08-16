@@ -16,13 +16,13 @@
 </a>
 
 ### I'm currently, 👇
-- 🌱 Learning Docker.
+- 🌱 Learning Pandas and Docker.
 - 👷‍♂️ Working on a Project.
 - 📙 Reading Sapiens by Yuval Noah Harari.
 
 💬 Ask me about Python, Linux, Git...
 
-### Proficient in, 🤯
+### Proficient in 🤯
 <span><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></span>
 <span><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></span>
 <span><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /></span>
@@ -36,7 +36,7 @@
 <span><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" /></span>
 <span><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /></span>
 
-### Reach me out by, 🤝
+### Reach me out by 🤝
 - [Mail](mailto:aakashjainofficial@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/aakashjainofficial/)
 - [Instagram](https://www.instagram.com/ashtrospection/)
