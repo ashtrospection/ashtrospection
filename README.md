@@ -6,7 +6,7 @@
 👨‍🎓 Currently a Computer Science grad student at the [NMU](https://nmu.ac.in/) 🏫 and minoring in Management. 👨‍💼  
 💡 Passionate about Back-end Web Technologies and cutting edge tech like ML, DL & AI. 🤖  
 😇 Strives to write sleek, easy-to-maintain, human readable code which is also up-to-date with modern practices and semantics. 📈  
-🚀 Enjoys brainstorming over finding more efficient, creative and optimized ways of solving coding problems. 📄  
+🚀 Enjoys brainstorming over search for more efficient, creative and optimized ways of solving coding problems. 📄  
 
 <a href="https://github.com/ashtrospection">
   <img src="https://komarev.com/ghpvc/?username=ashtrospection&color=blueviolet&label=Profile+Visits">
@@ -16,9 +16,9 @@
 </a>
 
 ### I'm currently, 👇
-🌱 Learning Docker.
-👷‍♂️ Working on a Project.
-📙 Reading Sapiens by Yuval Noah Harari.
+- 🌱 Learning Docker.
+- 👷‍♂️ Working on a Project.
+- 📙 Reading Sapiens by Yuval Noah Harari.
 
 💬 Ask me about Python, Linux, Git...
 
