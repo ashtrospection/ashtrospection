@@ -1,12 +1,12 @@
-# Hello, Stranger! 👋
+## Hello, Stranger! 👋
 
-## I'm Aakash Jain, 🐱‍👤
+### I'm Aakash Jain. 🐱‍👤
 
 👨‍💻 I'm a 19 year old Software developer from Maharashtra, India. 🌆  
-👨‍🎓 Currently a Computer Science grad student at the [NMU](https://nmu.ac.in/) 🏫 and minoring in Management. 👨‍💼  
-💡 Passionate about Back-end Web Technologies and cutting edge tech like ML, DL & AI. 🤖  
-😇 Strives to write sleek, easy-to-maintain, human readable code which is also up-to-date with modern practices and semantics. 📈  
-🚀 Enjoys brainstorming over search for more efficient, creative and optimized ways of solving coding problems. 📄  
+👨‍🎓 Currently a Computer Science grad student at the [NMU](https://nmu.ac.in/) 🏫 and with a minor in Management. 👨‍💼  
+💡 I'm passionate about Back-end Web Technologies and cutting edge tech like ML, DL & AI. 🤖  
+😇 I strive to write sleek, easy-to-maintain, human readable code which is also up-to-date with modern practices and semantics. 📈  
+🚀 I enjoy brainstorming over search for more efficient, creative and optimized ways of solving coding problems. 📄  
 
 <a href="https://github.com/ashtrospection">
   <img src="https://komarev.com/ghpvc/?username=ashtrospection&color=blueviolet&label=Profile+Visits">
@@ -15,14 +15,14 @@
   <img src="https://img.shields.io/badge/Portfolio-https%3A%2F%2Fastrospection.github.io-blue">
 </a>
 
-## I'm currently, 👇
+### I'm currently, 👇
 - 🌱 Learning Docker.
 - 👷‍♂️ Working on a Project.
 - 📙 Reading Sapiens by Yuval Noah Harari.
 
 💬 Ask me about Python, Linux, Git...
 
-## Proficient in, 🤯
+### Proficient in, 🤯
 <span><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></span>
 <span><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></span>
 <span><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /></span>
@@ -36,12 +36,12 @@
 <span><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" /></span>
 <span><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /></span>
 
-## Reach me out by, 🤝
+### Reach me out by, 🤝
 - [Mail](mailto:aakashjainofficial@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/aakashjainofficial/)
 - [Instagram](https://www.instagram.com/ashtrospection/)
 
-## Stats
+### Stats
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashtrospection&count_private=true&hide=prs,contribs&theme=tokyonight" />
@@ -55,4 +55,4 @@
   <img align="center" src="https://www.codewars.com/users/BadAsh/badges/large">
 </a>
 
-## Sayonara! 🙋‍♂️🖤
+### Sayonara! 🙋‍♂️🖤
