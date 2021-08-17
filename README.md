@@ -2,9 +2,9 @@
 
 ### I'm Aakash Jain. 🐱‍👤
 
-👨‍💻 I'm a 19 year old Software developer from Maharashtra 🏡,  India. Currently, A computer science grad student 👨‍🎓 at the [NMU](https://nmu.ac.in/) 🏫 minoring in Management 👨‍💼 with a passion 💡 for back-end web technologies and cutting edge tech like ML, DL & AI 🤖. 
+👨‍💻 I'm a 19 year old Software developer from Maharashtra 🏡,  India. Currently, A computer science grad student 👨‍🎓 at the [NMU](https://nmu.ac.in/) 🏫 minoring in management 👨‍💼 with a passion 💡 for back-end web technologies and cutting edge tech like ML, DL & AI 🤖. 
 
-😇 I strive to write sleek 🌊, easy-to-maintain ✅, readability prioritized code which is up-to-date with modern practices and semantics 📈. I also enjoy brainstorming 🚀 over search for more efficient ⚡, creative 👻 and optimized 🚄 ways of solving coding problems.
+😇 I strive to write sleek 🌊, readable 📖, easier-to-maintain ✅ code which is up-to-date with modern practices and semantics 📈. I also enjoy brainstorming 🚀 over search for more efficient ⚡, creative 👻 and optimized 🚄 ways of solving coding problems.
 
 <a href="https://github.com/ashtrospection">
   <img src="https://komarev.com/ghpvc/?username=ashtrospection&color=blueviolet&label=Profile+Visits">
@@ -21,9 +21,9 @@
 - 👷‍♂️ Working on a Project.
 - 📙 Reading Sapiens by Yuval Noah Harari.
 
-💬 Ask me about All-things-Python.
-😄 Pronouns: he/him.
-⚡ Fun Fact: I'm a huge fan of Neo-noir movies. 🎥
+💬 Ask me about All-things-Python.  
+😄 Pronouns: he/him.  
+⚡ Fun Fact: I'm a huge fan of Neo-noir movies. 🎥  
 
 ### 🤹 My Skills Include:
 <div>
