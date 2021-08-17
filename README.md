@@ -26,7 +26,7 @@
 ⚡ Fun Fact: I'm a huge fan of Neo-noir movies. 🎥
 
 ### 🤹 My Skills Include:
-<div align="center">
+<div>
 <span><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></span>
 <span><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></span>
 <span><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></span>
@@ -43,7 +43,7 @@
 </div>
 
 ### 📪 Get in Touch.
-<div align="center">
+<div>
 <a href="https://github.com/ashtrospection"><img height="40" src="icons/github.svg" /></a>
 <a href="mailto:aakashjainofficial@gmail.com"><img height="40" src="icons/gmail.svg" /></a>
 <a href="https://www.linkedin.com/in/aakashjainofficial/"><img height="40" src="icons/linkedin.svg" /></a>
