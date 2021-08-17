@@ -2,17 +2,15 @@
 
 ### I'm Aakash Jain. 🐱‍👤
 
-👨‍💻 I'm a 19 year old Software developer from Maharashtra, India. 🌆  
-👨‍🎓 Currently a Computer Science grad student at the [NMU](https://nmu.ac.in/) 🏫 and with a minor in Management. 👨‍💼  
-💡 I'm passionate about Back-end Web Technologies and cutting edge tech like ML, DL & AI. 🤖  
-😇 I strive to write sleek, easy-to-maintain, human readable code which is also up-to-date with modern practices and semantics. 📈  
-🚀 I enjoy brainstorming over search for more efficient, creative and optimized ways of solving coding problems. 📄  
+👨‍💻 I'm a 19 year old Software developer from Maharashtra 🏡,  India. Currently, A computer science grad student 👨‍🎓 at the [NMU](https://nmu.ac.in/) 🏫 minoring in Management 👨‍💼 with a passion 💡 for back-end web technologies and cutting edge tech like ML, DL & AI 🤖. 
+
+😇 I strive to write sleek 🌊, easy-to-maintain ✅, human readable 🗣 code which is up-to-date with modern practices and semantics 📈. I also enjoy brainstorming 🚀 over search for more efficient ⚡, creative 👻 and optimized 🚄 ways of solving coding problems.
 
 <a href="https://github.com/ashtrospection">
   <img src="https://komarev.com/ghpvc/?username=ashtrospection&color=blueviolet&label=Profile+Visits">
 </a>
-<a href="https://astrospection.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-https%3A%2F%2Fastrospection.github.io-blue">
+<a href="https://ashtrospection.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-https%3A%2F%2Fashtrospection.github.io-blue">
 </a>
 
 ### I'm currently, 👇
@@ -41,7 +39,7 @@
 - [LinkedIn](https://www.linkedin.com/in/aakashjainofficial/)
 - [Instagram](https://www.instagram.com/ashtrospection/)
 
-### Stats
+### Stats 🔢
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashtrospection&count_private=true&hide=prs,contribs&theme=tokyonight" />
