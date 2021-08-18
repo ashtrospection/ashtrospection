@@ -1,10 +1,10 @@
-## Hello, Stranger! <img height="32" src="assets/hi.gif">
+## <img height="32" src="assets/hi.gif"> Hello, Stranger!
 
-### I'm Aakash Jain. 🐱‍👤
+### 🐱‍👤 I'm Aakash Jain.
 
 👨‍💻 I'm a 19 year old Software developer from Maharashtra 🏡,  India. Currently, A computer science grad student 👨‍🎓 at the [NMU](https://nmu.ac.in/) 🏫 minoring in management 👨‍💼 with a passion 💡 for back-end web technologies and cutting edge tech like ML, DL & AI 🤖. 
 
-😇 I strive to write sleek 🌊, readable 📖, easier-to-maintain ✅ code which is up-to-date with modern practices and semantics 📈. I also enjoy brainstorming 🚀 over search for more efficient ⚡, creative 👻 and optimized 🚄 ways of solving coding problems.
+😇 I strive to write sleek 🌊, readable 📖, easier-to-maintain ✅ code which is up-to-date with modern practices and semantics 📈. I also enjoy brainstorming 🚀 over search for more efficient ⚡, creative 🎨 and optimized 🚄 ways of solving coding problems.
 
 <a href="https://github.com/ashtrospection">
   <img src="https://komarev.com/ghpvc/?username=ashtrospection&color=blueviolet&label=Profile+Visits">
@@ -42,7 +42,7 @@
 <span><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /></span>
 </div>
 
-### 📪 Get in Touch.
+### 📪 Get In Touch.
 <div>
 <a href="https://github.com/ashtrospection"><img height="40" src="assets/github.svg" /></a>
 <a href="mailto:aakashjainofficial@gmail.com"><img height="40" src="assets/gmail.svg" /></a>
