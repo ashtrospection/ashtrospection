@@ -1,4 +1,4 @@
-## Hello, Stranger! 👋
+## Hello, Stranger! <img height="32" src="assets/hi.gif">
 
 ### I'm Aakash Jain. 🐱‍👤
 
@@ -23,7 +23,7 @@
 
 💬 Ask me about All-things-Python.  
 😄 Pronouns: he/him.  
-⚡ Fun Fact: I'm a huge fan of Neo-noir movies. 🎥  
+⚡ Fun fact: I'm a huge fan of Neo-noir movies. 🎥  
 
 ### 🤹 My Skills Include:
 <div>
@@ -44,12 +44,12 @@
 
 ### 📪 Get in Touch.
 <div>
-<a href="https://github.com/ashtrospection"><img height="40" src="icons/github.svg" /></a>
-<a href="mailto:aakashjainofficial@gmail.com"><img height="40" src="icons/gmail.svg" /></a>
-<a href="https://www.linkedin.com/in/aakashjainofficial/"><img height="40" src="icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/ashtrospection/"><img height="40" src="icons/instagram.svg" /></a>
-<a href="https://twitter.com/ashtrospective"><img height="40" src="icons/twitter.svg" /></a>
-<a href="https://open.spotify.com/user/315tytbu2j2etz37g2hr5s5gkioq"><img height="40" src="icons/spotify.svg" /></a>
+<a href="https://github.com/ashtrospection"><img height="40" src="assets/github.svg" /></a>
+<a href="mailto:aakashjainofficial@gmail.com"><img height="40" src="assets/gmail.svg" /></a>
+<a href="https://www.linkedin.com/in/aakashjainofficial/"><img height="40" src="assets/linkedin.svg" /></a>
+<a href="https://www.instagram.com/ashtrospection/"><img height="40" src="assets/instagram.svg" /></a>
+<a href="https://twitter.com/ashtrospective"><img height="40" src="assets/twitter.svg" /></a>
+<a href="https://open.spotify.com/user/315tytbu2j2etz37g2hr5s5gkioq"><img height="40" src="assets/spotify.svg" /></a>
 </div>
 
 ### 🔢 Stats.
@@ -62,4 +62,4 @@
 </a>
 </div>
 
-### Sayonara! 🙋‍♂️🖤
+### 🙋‍♂️ Sayonara! 🖤
